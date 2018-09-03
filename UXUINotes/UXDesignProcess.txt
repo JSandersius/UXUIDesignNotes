@@ -1,0 +1,38 @@
+Learning Objectives
+By the end of this lesson, you'll be able to:
+	•	Define user experience (UX) design.
+	•	Explain how UX design differs from user interface (UI) design.
+	•	Describe a process for iterative UX design.
+	•	
+	•	UX Design is process that governs the experience the user has when interacting  with product of service
+	•	Smoothed out experience
+	•	
+	•	Stages are 
+	•	1 Discovery and research 
+	•	2 Synthesizing research and design strategy 
+	•	3 Placement and layout design 
+	•	4 execution 
+	•	5 usability testing 
+
+Iterative process, cycles through to refine product with each revolution. 
+
+“UX is the design of anything, independent of medium or across media, with human experience as an explicit outcome and human engagement as an explicit goal.”
+
+good UX design in that it’s self-evident, intuitive, self-explanatory, and user-centered.
+
+Agile design process
+Small cross functional teams
+
+One process is complete, the process begins again and repeats continuously to create new, better versions  
+
+. Start with user research 
+. Build something based off of that research 
+. Test what you’ve built
+. Repeat
+
+UX design approach with five phases:
+	•	Discovery and research
+	•	Synthesizing research and design strategy
+	•	Placement and layout design
+	•	Execution
+	•	Usability testing
