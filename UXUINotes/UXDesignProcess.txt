@@ -36,3 +36,615 @@ UX design approach with five phases:
 	•	Placement and layout design
 	•	Execution
 	•	Usability testing
+____________-
+
+UX designers role___
+think  like a user, this is objective of discovery and research phase
+this data is baseline for everything
+
+_________
+User research basics
+three disciplines
+research—> interaction design IA—> visual design 
+peel the onion—> find anomalies and oddities in people, dig deep
+“peel it until you cry” 
+
+
+____conducting user research —> 
+designer, anthropologist, psychologist 
+interview and observation
+
+By the end of this lesson, you'll be able to:
+	•	Describe the benefits of contextual inquiry.
+	•	Name the elements of a research plan.
+	•	Identify best practices for conducting interviews.
+	•	List methods for recruiting users.
+
+data gather is crucial , how do we collect it 
+contextual inquiry is observational research, human behavior within natural environment 
+real world user interaction
+ensure we’re solving for right problems 
+dont intercede in action 
+ask direct questions 
+
+	•	Contextual inquiries, also known as field studies, involve observing users in their natural environment to learn from their actions and behaviors.
+	•	User interviews often come after contextual inquiries but can stand on their own. During user interviews, UX designers ask questions to learn more about users' needs and behaviors. 
+	•	Contextual inquiries allow you to understand user behaviors in action.
+	•	Don’t make assumptions 
+	•	   •	How are they currently dealing with the problem?
+	•	Are they hacking their own solutions?
+	•	Do those solutions give you insight into how they’d like issues resolved?
+	•	Find poor design and the strife that it causes
+
+	1. Observe	
+	2. Interview
+surveys are not entirely reliable 
+In other words: user interviews are vital.
+
+You might be really excited about your idea, but if you let your desires and biases creep into your research, you’ll be able to find support. Down the road you’ll get a painful dose of the truth. This is how the confirmation bias works.
+
+____EFFECTIVE INTERVIEWS
+	1.	Write a research plan. 
+	2.	Create a discussion guide. 
+	3.	Recruit users for your interviews. 
+	4.	Conduct interviews. 
+Ask question that lead to a discussion 
+focus on specific instances, not “usually” or “intend” 
+“what did you do then” , not “what do you usually do? “ 
+don’t assume, don’t ask leading questions 
+_______Setup who you are, what and why 
+______>conversation are easy for me, nit pick and empathize 
+don’t coax answers, 
+format a script to go by. 
+who to interview.. close people, or find people
+five whys that stems from six sigma
+discussion guide as a checklist
+stay ignorant and never assume
+________________
+Affinity Mapping
+—> synthesizing data—> break it down and analyzing
+"In synthesis, you’re trying to find meaning in your data. This is often a messy process — and can mean reading between the lines and not taking a quote or something observed at face value. The why behind a piece of data is always more important than the what." 
+
+democratizing procedure — >
+collaboration 
+bring information together 
+deep learning 
+multi disciplinary group 
+
+one idea per sticky note
+
+	1.	Color code your sticky notes by user. This way you can see at a glance if multiple people expressed the same issue. 
+	2.	Only include information you explicitly observed, such as a quote or behavior. The sticky notes are for raw data not your interpretation of the data. 
+	3.	Avoid trying to create solutions. Don’t assume you know what people need. Label according to trends not possible product solutions. 
+	4.	Discuss and reflect on sticky note organization. If possible, work with a teammate to discuss ideas and ask what he or she sees.  
+DEFINING USERS PROBLEM
+By the end of this lesson, you'll be able to:
+	•	Recognize effective problem statements and hypotheses.
+
+Problem Statement —. persona name needs a way to users need because insight 
+insight is not just what we’re trying to solve but what we’re trying to solve it 
+
+______
+Identifying Problems
+You can’t design a solution to a problem without knowing what the problem is.
+In UX, thinking more carefully about the problem you are solving and the solution your design offers is often called "problem solving and solutioning."
+Developing problem statements helps you establish a hypothesis. It also forces you to say "no" to solutions that don’t solve that problem (remember those balloons in the snowy driveway from the start of this lesson?) and keeps your user front-and-center in the design process.
+
+"People think ‘focus’ means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying ‘no’ to 1,000 things."
+
+Double Diamond of UX Design
+The concept of “subtraction adding value” is illustrated in the often-referenced "Double Diamond of UX Design."
+During the research phase of the UX design process, we quickly broadened our scope.
+Discover -> Define -> Develop-> Deliver
+_______
+Problem statements communicate a clear vision for the work and shift the conversation from outputs to outcomes.
+	•	An example of an output is "We will create an advanced search feature." 
+	•	An example of an outcome is "We want to increase the accuracy of a user’s first search."
+	•	
+	•	Hypothesis
+	•	It is important to separate the problem from the proposed solution or hypothesis. In UX design, a good hypothesis looks something like this:
+	•	We believe that by {doing this/building this feature/creating this experience} for {these users}, we will achieve {this outcome}.
+	•	We will know this to be true when we see {this feedback/quantitative measure/qualitative insight}.
+	•	 
+
+
+PRIORITIZING FEATURES
+Learning Objectives
+By the end of this lesson, you'll be able to:
+	•	Identify appropriate methods for prioritizing features.
+	•	Define Minimum Viable Product (MVP).
+
+Feature are functions that address specific user needs 
+
+A feature is a function that addresses a specific user need.
+
+________
+user research 
+ask indirect questions
+play to the bell of the bell curve, can’t please everyone 
+don’t give optionality, design for the user, dont allow the user to design 
+
+Avoid Featuritis
+Products inundated with features are all too common. This is usually caused by a lack of prioritization and results in complexity that will make your users feel frustrated and overwhelmed.
+Most of the features we identify as high priority will be included in a minimum viable product (MVP), which is a product built with the minimum number of features necessary to fulfill users’ needs.
+Entrepreneur and innovator Eric Ries coined the term MVP in his seminal book, “The Lean Startup,” describing it as:
+"That version of a new product which allows a team to collect the maximum amount of validated learning about customers with the least effort."
+
+
+MVP (Continued)
+While it may be true that an MVP is a product, we like to think of MVP as an approach to product development as opposed to the product itself.
+The goal of an MVP is to prove that your product can solve the problem you think that you are solving. That’s why defining problem statements and writing hypotheses are so important.
+Let’s watch a video example that reviews how we get from user research to a prioritized feature list.
+
+
+-___________________
+Research to design 
+double diamond is used for hypothesizing solutions 
+________
+
+Visual AlphabetPaper Prototype
+
+It may seem strange to be halfway through the design process and only just beginning to work on layout and design.
+But jumping to layout design without user research, synthesis, and a project vision could mean we're putting our effort into building the wrong thing or building something that no one needs. By creating the first iteration of our designs with paper and pen, we decrease cost and risk. 
+By the end of this lesson, you'll be able to:
+	•	Explain the importance of the visual alphabet.
+	•	Discuss how to conduct a user test using paper prototypes.
+sharable 
+cheap 
+quick 
+
+visual alphabet
+
+Getting Started With Sketching
+visual communication 
+ideation and brainstorming, low fidelity way of communicating. 
+sketch and rehearse prototype with interviewees 
+Preparing for the Test
+	•	Consider the goal you want users to accomplish and make sure you sketch each screen necessary for your user to complete it. 
+	•	Recruit users for your test. 
+	•	Find a quiet spot for testing with a flat surface for your prototype. 
+	•	Rehearse with your prototype to ensure the screen flow works like a real machine.
+	•	Conducting the Test
+	•	Record the test using audio and/or video. 
+	•	Don’t lead the user through the test. 
+	•	Place the screen in front of your user and ask them to try to accomplish the goal.
+	•	
+	•	Synthesizing your Findings
+	•	Take notes during and immediately after the test. 
+	•	Listen to your audio recording or watch your footage from the test. 
+	•	Synthesize your findings using this research highlights worksheet. 
+	•	Articulate your observations and insights to determine next steps. 
+	•	
+	•	Context Matters
+	•	We also know that users interact with content differently depending on their device. Users who access sites on a desktop have different goals than users who access a mobile app.
+	•	
+	•	
+	•	Content Hierarchy
+	•	We can use this information about user behavior to arrange and categorize content on a site or app. The result is called content hierarchy.
+	•	This hierarchy typically consists of three levels:
+	•	Main provides core value and helps the user complete a goal or fulfill an unmet need. 
+	•	Supporting enhances user engagement with the main content. 
+	•	Interface allows the user to navigate the experience. 
+	•	
+	•	
+	•	Content Hierarchy + Navigation = Success
+	•	Content hierarchy is one part of ensuring users are able to find what they need on your site or app. But most sites or apps, especially those with a lot of content or functionality, also need well-designed navigation.
+	•	Navigation is often taken for granted, but it plays a crucial role in getting site visitors to view more than just the home page. Some might say navigation is the most important form of interface content.
+	•	Let’s explore five best practices for designing intuitive navigation.
+	•	
+	•	
+	•	1. Be Consistent
+	•	Navigation is the one area in web design where it's good practice to be boring. Use a conventional design pattern and stick with it.
+	•	For example, if you display your navigation one way on your "About" page, you should maintain that navigation style on your "Contact" page. 
+	•	
+	•	
+	•	2. Use Conversational Copy
+	•	A conversational tone to the writing is more likely to engage users than a formal tone.
+	•	Here is a great example of conversational copy for navigation:
+	•	
+	•	
+	•	3. Avoid Mystery Meat
+	•	Don’t use ambiguous navigation elements.
+	•	The icons without text labels on the right are akin to design mystery meat.
+	•	Without a label, it’s unclear where the links lead.
+	•	
+	•	4. Keep It Simple
+	•	Clean, familiar, and uncluttered navigation makes for the best user experience.
+	•	Google Search is an excellent example of simple, intuitive navigation.
+	•	
+	•	5. Keep Depth in Check
+	•	In navigation, “depth” refers to the number of levels in your site or app.Navigation
+	•	5. Keep Depth in Check (Continued)
+	•	Try to keep your site to less than three levels of depth.
+	•	If you find yourself with more than tertiary (third-level) navigation, you should consider restructuring your content.
+	•	Navigation
+	•	
+	•	6. Keep Breadth in Check
+	•	In navigation, "breadth" refers to the number of visible menu items. Increasing breadth can help reduce depth. But be careful, as you might end up providing too many top-level options.
+	•	Here is an example of a broad and shallow navigational structure:
+	•	Navigation
+	•	
+Building Your Design: Assessing Knowledge
+20 mins
+Topics Covered:
+NavigationMain ContentSupporting ContentInterface ContentVisual AlphabetSketchingPaper Prototype
+
+Incorrect: The goal of sketching is to communicate goals and flow. Don’t get overwhelmed by options.
+
+______________
+Learning Objectives
+By the end of this lesson, you'll be able to:
+	•	Identify the strengths and weaknesses of mobile apps and websites.
+	•	Describe the benefits of using design patterns and conventions.
+
+____________
+Design Patterns and Conventions
+With so many different types of interfaces out there, users need a consistent way of understanding how to interact with them.
+In this lesson, we will explore design patterns for desktop and mobile devices, including a range of operating systems and application types.
+Learning common design patterns and conventions will make it easier to create wireframes, a critical component of user experience design.
+___
+Creativing Intuitive Designs
+	•	So how do you know which design patterns and conventions to use?
+Start by thinking about your users. Where and when might they might encounter problems that you can solve with intuitive design?
+Consider the following questions:
+	•	What device are the users on? (A laptop? iPhone? Android?)
+	•	What is its screen size?
+	•	What is its operating system? 
+	•	_________
+	•	Designing for Mobile
+	•	Following the design conventions unique to each device will ensure that your users don't feel lost.
+	•	These conventions start with an operating system (OS), the software that supports a computer or smartphone’s basic functions.
+	•	In the first part of this lesson, we’re going to explore the three ways people access content on mobile devices:
+	•	Native apps 
+	•	Mobile websites 
+	•	Responsive websites 
+	•	We’ll focus on Android and iOS, the dominant mobile operating systems.
+Native Apps
+Native apps are available through platform stores like Google Play or Apple’s App Store.
+Many of these applications can be used without an internet connection because they run outside of the browser. However, some still require an internet connection to use.
+_______
+Native Apps: Pros and Cons
+Pros
+Cons
+Full use of device. Applications can access functions including GPS, push notifications, offline access, address book, SMS messaging, and background downloading of data.
+Cost to develop. Native apps generally cost more money and take more time to build than web-based apps because so much of their design and engineering is specific to the device and its operating system.
+Accessibility and speed. Applications can operate even without an internet connection, making information available at any time at a consistent speed, no matter where you are.
+Not accessible on all devices. Apple and Android require separate, specific coding languages for engineering native apps. This means an app made for iPhone will not work on an Android device and vice versa.
+High visibility. Once a user has installed your app on a mobile device, it stays there, showing up with its unique icon on the home screen.
+App Store requirements. All application updates have to be submitted and approved by the App Store each time, which can take up to a few weeks. This is especially true for native apps on Apple devices.
+__
+Mobile Sites
+Mobile sites are websites that are built separately from their desktop counterparts. For example, consider the JetBlue mobile and desktop sites.
+They have completely different URLs and need to be maintained separately.
+_____-
+Mobile Sites: Pros and Cons
+Pros
+Cons
+Optimized for the mobile user. With a separate site, you can fully tailor the browsing experience for mobile users.
+Multiple domain names. Unlike a responsive site, which uses one code base to adjust both the mobile and desktop sites, you will have to maintain two websites separately when using a mobile site.
+Low cost. Building a mobile site is cheaper than building a native app; however, it’s still more expensive than a responsive website.
+Navigation between sites is difficult. You have to manage cross-linking and the redirection of users between the two sites, which can be tricky.
+Immediately accessible for users.  Users only need an internet connection to access the mobile site, unlike native apps, which require download and installation.
+Not universally compatible. There are two different types of mobile devices: touchscreen and keyboard navigation. A single mobile website won’t look and work the same way across all types of devices.
+Pros
+Cons
+One site for many devices. A single URL allows your users to easily find you on mobile devices.
+Not optimized for mobile. A responsive site takes longer to load on a mobile device. Mobile is also a completely different experience than desktop, so having a single website (even a responsive one) may harm your overall UX on both platforms.
+Easy to manage. It's easier to administer just one website for all devices.
+Can be costly. Costs depend on the size of site and the amount of content.
+Designing for Devices
+Though choosing your product’s platform often won’t be your responsibility as a UX designer, it’s important to understand the differences, opportunities, and limitations of each platform type.
+You’ll want to be able to influence decision makers by informing them about the features and usability you’ll be able to provide.
+Designing for different devices requires a deep understanding of your target user and understanding of how design patterns look on a variety of operating systems.
+_____
+Design Conventions
+UX design is guided by conventions — we draw inspiration from designs that have already proven to be effective.
+For example, many of the first websites used the well-established designs of newspapers as their model for hierarchy and layout.
+Design Conventions (Continued)
+Sometimes new components are introduced that are easily understood. For example, the icon of the shopping cart in the upper-right corner of the web screen is now a design convention.
+Users know that this is where they can look to see how many items they’ve indicated they want to buy, as well as where they can click to check out.
+Conventions like these are called design patterns.
+__________
+80/20 rule
+________
+Learning Objectives
+By the end of this lesson, you'll be able to:
+	•	Define a functional prototype.
+	•	Discuss best practices for using prototypes.
+	•	Create a prototype using InVision.
+
+Don’t Fail Fast, Learn Fast.
+Astro Teller, Captain of Moonshots at Google[X] , shares this insight:
+“The faster you can get your ideas in contact with the real world, the faster you can discover what is broken with your idea. Seeking out contact with the real world means hearing and seeing things you don’t want to hear and see — because they’re discouraging and disheartening when you’re pouring your all into something. But better to learn that after a few days then after a few months. The more work you do before you get the learning, the more painful the learning will be, and the more you’ll unconsciously avoid those learning moments.”
+
+Why Do We Make Prototypes?
+	1.	Refinement: Similar to sketching, we use prototypes primarily as a way to refine and explore a concept. 
+	2.	Functionality: We can more effectively test functionality with users using a prototype. 
+	3.	Communication: We can use prototypes to communicate with our team and additional stakeholders. 
+	4.	User Centered: Prototypes allow us to validate whether or not our designs enable our users to accomplish their target goal in an intuitive way. 
+	5.	Efficiency: Production development can get messy with database issues, integration points, code maintainability, quality assurance, deployment, etc. A prototype helps you avoid unnecessary problems. 
+	6.	Inclusivity: Not everyone can code, but most can help with prototyping. It’s a way for more people to have input. 
+____
+usability test.
+In this type of test, the designer creates a task scenario and instructs a user to interact with the prototype.
+_____
+Testing with Hi-Fi Prototypes (Continued)
+Hi-fi prototypes are effective for testing:
+	•	Flow of the screens: What the user sees and does on the site or app. 
+	•	Motion and gestures: How the user controls the site or app. 
+	•	Timing: When the user sees content on the site or app. 
+	•	Expectations: How the content and flow support what users expect in the site or app. 
+	•	________
+	•	Learning Objectives
+	•	By the end of this lesson, you'll be able to:
+	•	Explain the role of the UI in UX design.
+	•	Identify the essential elements of design.
+	•	Discuss ways to use multiple layout elements as cumulative parts of a cohesive design.
+	•	Explain how contrast adds interest to visual designs.
+	•	Discuss how to use negative space effectively.
+
+______
+The Role of UI in UX
+Officially, a UX designer is responsible for strategizing and implementing the UX design process from beginning to end.
+But depending on the needs and size of the organization, a UX design role could also mean undertaking and owning one part of the process as opposed to every aspect of the user experience.
+For example, UI designers focus specifically on the screens within a website or application. They likely have specialized skills in front-end web development, graphic design, and/or page layout and interface design.
+Elements of Design
+You can spend years studying the nuances of design and the many varying takes on how to be successful at it, but there are some basic elements that every designer should learn as a starting point. Let’s review.￼
+By the end of this lesson, you'll be able to:
+	•	Select an appropriate font based on context, desired feel, or brand guidelines.
+	•	Identify the difference between a serif and sans serif font.
+	•	Locate fonts and typefaces from type foundries.
+	•	Determine how to use typography in your key screens of your prototype.
+
+Typeface is family of fonts — helvetica
+Think about user, age, gender, location , socio economic 
+business objectives 
+FONT RESOURCES —> purchase fonts 
+Main Header 72 pt
+Subheader 40 pt
+Body copy 16pt
+Legal Copy 10pt
+____Choosing font 
+serif vs sans serif 
+handwritten for main elements 
+limit to two fonts -> maybe three sparingly 
+rule of thumb 12 - 13 words per line 
+large amount of copy bulleted list to brea things up
+keep color reasonable
+
+_______COLOR
+Learning Objectives
+By the end of this lesson, you'll be able to:
+	•	Understand the color families on a color wheel.
+	•	Identify the different ways in which colors are presented.
+	•	Explain how to specify the proper color palette for your project.
+	•	Create color palettes in Adobe Photoshop.
+	•	Consider global interpretations of colors.
+	•	Identify important visual and legal considerations when selecting images for your designs.
+
+Using Color
+The power of color on both mind and body has long fascinated humankind. Color affects mood, perception, attitude—even innate functions like heart rate. Thus, the ability to deploy colors effectively will help you create compelling designs. The video on the next slide discusses some fundamental concepts of color theory.
+Primary 
+Secondary 
+Tertiary
+___want blue, this is the hue
+value is how light or dark color is saturation is intensity of color, hue is color in purest form 
+lightness is dependent on amount of black or white in it 
+saturation is thinking in terms of grey 
+more white its tinting
+more black its shading
+varying percentage of black and white dictates tone
+__
+Specifying Color
+When choosing a color scheme, always remember your audience. Certain colors have certain associations, so keep in mind your audience's age, socioeconomic status, location, and any other distinguishing factors. Understanding your target audience will help you choose colors that direct or draw interest.
+For example, a high-end luxury brand like Chanel might seek a more neutral color scheme...
+___
+Style Guides
+Sometimes the work of choosing a color scheme is already done for you in the form of a style guide. The image below is an example from Yelp.
+Existing brand elements in the guide must be observed, but you'll likely be able to choose complementary colors or accents to make distinguishable elements stand out.￼
+
+
+COLOR MODES —> 
+pantone number for target —> appearance on computer
+HEX value —> RGB colors —> devs
+CMYK —> another color mode for print
+____Color Palette
+A color palette is simply the handful of colors that will appear in your design. When painting, a palette might look something like this:
+
+In digital design, it often looks something along these lines: 
+
+The video on the next slide provides advice on selecting a palette for a design project.
+In digital design, it often looks something along these lines: 
+
+The video on the next slide provides advice on selecting a palette for a design project.
+
+
+
+____PICking your pallet 
+color picker in PS
+
+
+monochromatic is one color with different tints and shades and tones
+
+complementary , two colors from opposite sides —> can’t be next to each other
+
+analogous is one color and two adjacent colors next to it on wheel 
+
+split complementary —> NEXT TO colors opposite colors
+
+______
+Palette Builders
+There are many online tools that can help you build a color palette.
+	•	Adobe Color
+	•	Colour Lovers
+	•	Coolers
+	•	Design Seeds
+Many palette builders will recommend a scheme of up to seven colors. Consider paring down to a smaller range of colors and incorporating black, white, or gray
+
+
+__
+Assigning Colors
+Once you've selected colors for your palette, you'll want to choose just one to use for interactive elements, like mouseovers that indicate hovering over links.
+You'll want to choose a color that's consistent with the scheme, but slightly different, like gray for a black element. If a lot of colorful imagery will be used, think about supporting that with more subtle or simple tones, like black or gray.
+On Nike's website, all the elements are black, white, or gray, so that the colorful products really pop.
+____
+Color Consideration  
+__ color blindness —> 1/12 men are color blind —> red green 
+LOWfidelity layout in greyscale
+—> accessibility check in AI 
+
+Product designer is —>  strong UX and visual design 
+__
+Which job is most appropriate for someone who writes code for the visual components of a website or app?
+ WEB UI ENGINEER
+_____
+Usability Testing: The Basics
+40 mins
+Topics Covered:
+Utility versus UsabilityRecruitingTest PlanTask ScenarioDiscussion GuidePreparing for a Usability Test
+_____
+Getting Answers
+Exciting news! Your company has a 10-million-dollar idea for a new app. But is it truly a 10-million-dollar idea, or is it a massive flop in the making? Will people use it? Will they like it? Will they understand it? How do we get these answers before spending gobs of money building out the app?
+Let's find out.
+____
+Learning Objectives
+By the end of this lesson, you'll be able to:
+	•	Discuss the purpose of usability testing.
+	•	Create a test plan.
+	•	Prepare for and conduct a usability test.
+_
+
+_____
+_____
+Utility and Usability
+There will always be debate about what makes great UX design, but at the end of the day, the two factors a UX designer has the most control over are utility and usability.
+	•	Utility: Is the product useful? Does it meet the needs and goals of the user? 
+	•	Usability: How easy is the product to use? Is it intuitive to users? 
+As a UX designer, it’s up to you to notice and determine where user experience is uneven, when and why the users are getting lost, and how quickly users are adapting to your product.
+
+____
+This famous line from Henry Ford highlights the fact that users will never tell you exactly what they need. We conduct usability tests because:
+	•	They allow us to observe users in a structured way to evaluate the flow of a website or app. 
+	•	They are the best way to get feedback on our designs from real users. 
+	•	They are relatively inexpensive and easy to conduct. 
+	•	They can be more insightful than other methods of testing, such as analytics and heuristic evaluation. 
+	•	___
+	•	Guide to Usability Testing
+	•	Usability testing comes in many forms: casual cafeteria studies, formal lab testing, remote online task-based studies and more. However you choose to carry out your testing, you’ll follow these five steps:
+	•	Prepare a plan of three or more task scenarios that test user goals and make sure your prototype works correctly. 
+	•	Recruit participants who resemble your target audience. 
+	•	Conduct the usability test in a quiet place with a working prototype. 
+	•	Analyze the data to find patterns and problems. 
+	•	Debrief the test and determine next steps. 
+———
+Task Scenarios
+In order to observe users, you need to give them something to do. A task scenario is the action that you ask the participant to take so you can observe how they use the product.
+Here are some questions to ask yourself before you begin writing your task scenarios:
+	•	What are the goals that a user has when interacting with your product? 
+	•	Do you have questions about how your design will work in practice? 
+	•	Do you need to test a specific interaction or flow? 
+————+_______
+Task Scenario Format
+Once you know what you want to test, prepare a short script to introduce the test and its protocols to the user.
+Here’s an example:
+    You're a single twenty-something traveling for a weekend getaway with your college friends to New York City, March 3 − March 14.
+    You need to buy both airfare and hotel.
+    Go to the American Airlines site and jetBlue Airlines site and see who has the best deals.
+Pro Tip: You’ll get the most qualitative insight from scenarios that accurately reflect what participants would do in real life.
+
+—> flow is more important on mobile as there are more screens
+also , more animation is expected , gesture triggered effects 
+velocity, bounciness, timing 
+increasing enjoyment , visual feedback and affordance —> 
+usability testing saves time and money 
+
+—
+_____
+Synthesizing and Communicating Your Findings
+
+
+
+The Distillery
+Your usability tests are complete. Now, you have a notebook full of observations. But, what do they all mean? How do we distill this knowledge into an end product that we can use?
+
+—>Learning Objectives
+By the end of this lesson, you'll be able to:
+	•	Organize and present findings from a usability test.
+—> be specific of issues, what happened, dont blame the user 
+—> look at big picture —> flow expectations and alignment 
+—> work toward solutions 
+——> 
+Synthesizing Observations
+Now it's time to synthesize your usability test findings using many of the same synthesis processes you learned previously. Remember, always begin by synthesizing your observations. Keep your possible solutions separate.
+Methods for Synthesis
+We will discuss two ways to synthesize your findings:
+	1.	Plus/delta: You can use this method to identify what went well and what could be improved. 
+	2.	Affinity mapping: You can use this method to visualize trends in your testing observations if a clear trend is not apparent. 
+ Both methods will reveal a number of issues (these are your insights). You can prioritize these insights and use them to justify changes to your designs.
+
+Observations -> 
+Insights —> 
+Reporting what was learned —> 
+_____
+_____
+An Example of Formal Reporting Methods
+Next, we’ll walk through an example of a formal usability test that included several components:
+	•	An introduction 
+	•	Three tasks. 
+	•	A short interview 
+	•	A post-test questionnaire 
+Participants were asked to think out loud and share their thoughts throughout the test.
+Following the task, feedback was read aloud by the researcher and provided to participants in a printed version.
+Sessions were performed on an individual basis, and each session lasted five minutes. Qualitative data was then analyzed and summarized.
+
+____
+Crafting Solid Presentations - Tip 1: Know Your Audience.
+	•	Who are the users and what are their goals? What is important to them? 
+	•	Understand who you're speaking to and show your personality. 
+___
+___
+Crafting Solid Presentations - Tip 2: Speak Simply.
+	•	State the problem that is being addressed. 
+	•	Explain your illustrations and sketches in a meaningful and readable way. 
+___
+___
+Crafting Solid Presentations - Tip 3: Pay Attention To Detail
+__
+Crafting Solid Presentations - Tip 4: Tell a Story.
+	•	Decide how you will share the journey of your design process. 
+	•	Tell your story in a logical and compelling fashion. 
+	•	Demonstrate each concept in the appropriate place in the story. 
+___
+___
+Crafting Solid Presentations - Tip 5: Outline Clear Next Steps.
+	•	Determine how you will measure success. 
+	•	Decide what metrics you will use and how you will mark your success rate. 
+	•	Have a logical conclusion to your presentation. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
